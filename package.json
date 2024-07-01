@@ -1,0 +1,17 @@
+{
+  "name": "responsive-grid-system",
+  "version": "1.0.0",
+  "description": "A simple and customizable responsive grid system",
+  "main": "dist/grid.js",
+  "scripts": {
+    "build": "cp src/grid.css dist/grid.css && cp src/grid.js dist/grid.js"
+  },
+  "keywords": [
+    "responsive",
+    "grid",
+    "css",
+    "flexbox"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
