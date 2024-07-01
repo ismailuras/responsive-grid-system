@@ -46,7 +46,6 @@ class ResponsiveGrid {
     return newSize;
   }
 }
-console.log("kjasldjsal");
 document.addEventListener("DOMContentLoaded", () => {
   new ResponsiveGrid();
 });
